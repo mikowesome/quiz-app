@@ -2,11 +2,11 @@
 
 ## Links
 
-- Live Site URL: [Live Site](https://mikowesome.github.io/sign-up-form/)
+- Live Site URL: [Live Site](https://mikowesome.github.io/quiz-app/)
 
 ## Screenshot
 
-![](images/sign-up-form-screenshot.PNG)
+![](images/quiz-app-screenshot.PNG)
 
 ## Built with
 
